@@ -5,7 +5,7 @@ import javafx.scene.paint.Color;
 import javafx.scene.shape.Rectangle;
 import javafx.stage.Stage;
 
-public class View_ extends Application {
+public class Ground extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception {
         Pane pane = new Pane();
